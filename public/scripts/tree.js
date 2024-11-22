@@ -1,4 +1,3 @@
-// tree.js
 class TreeNode {
     constructor(book) {
         this.book = book;
@@ -106,5 +105,5 @@ class BST {
     }
 }
 
-// Exportar la clase BST para usarla en otro archivo
-export default BST;
+// Usar CommonJS para exportar la clase BST
+module.exports = BST;

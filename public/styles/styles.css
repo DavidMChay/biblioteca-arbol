@@ -19,7 +19,7 @@ ul li {
     display: inline-block;
 }
 
-button {
+button-a {
     width: auto;
 }
 
@@ -47,4 +47,18 @@ h1 {
 
 .list-group-item:hover {
     background-color: #f8f9fa;
+}
+
+/* Estilo para el formulario de edición */
+form {
+    margin-top: 20px;
+}
+
+.button-b {
+    margin-top: 10px;
+}
+
+input, textarea {
+    width: 100%;
+    margin-bottom: 10px;
 }

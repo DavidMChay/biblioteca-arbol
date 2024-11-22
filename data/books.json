@@ -1,50 +1,58 @@
 [
-    {
-        "ISBN": "9788499169019",
-        "title": "Un Dulce Aprieto",
-        "author": "Capitan Koki",
-        "description": "¿Qué pasa cuando Gummigoo se confía de más y acaba a merced de sus secuaces? Max y Chad aprovecharán para pasar un buen rato con el Jefe para ponerlo a prueba a los gustos de ellos sin esperar lo que él tiene reservado para ellos después.",
-        "amount": 10,
-        "location": "Pasillo 1"
-    },
-    {
-        "ISBN": "9788499169020",
-        "title": "Que Gane El Mejor",
-        "author": "Eveecholo",
-        "description": "Fennix está confiado de que sus amigos llegarán más tarde, lo que le da tiempo a pasar un rato agradable para él, pero pronto se verá interrumpido por cierto visitante que le cambiará la visita a algo diferente de lo que él esperaba.",
-        "amount": 5,
-        "location": "Pasillo 2"
-    },
-    {
-        "ISBN": "9788499169021",
-        "title": "The Deep Dark",
-        "author": "Redrusker",
-        "description": "Después de los eventos de School Daze, Sea Salt nos muestra lo que aparentemente es una rutina tranquila en su vida, pero todo esta a punto de cambiar cuando sus padres se ausentan el fin de semana y es sorprendido por una persona que él no se esperaba.",
-        "amount": 15,
-        "location": "Pasillo 3"
-    },
-    {
-        "ISBN": "9788499168329",
-        "title": "School Daze",
-        "author": "Redrusker",
-        "description": "Estrenado en el 2011, School Daze empezó la historia de un personaje que con el paso de los años empezaría a hacerse muy conocido dentro del fandom furry, hablamos de Sea Salt. La historia empieza con lo que aparentemente es un chico tímido y callado que no es de llamar la atención, pero nadie sospecha que él suele ofrecer servicios en los baños de la escuela, que, para su suerte... es de puros hombres, ¿Qué aventuras le esperan en ese cubiculo que aparentemente guardan muchos secretos?",
-        "amount": 10,
-        "location": "Pasillo 4"
-    },
-    {
-        "ISBN": "9788499162377",
-        "title": "The Dark Feast",
-        "author": "Soina",
-        "description": "Shadow parece estar dando un paseo ya entrada la noche cuando de repente, es interceptado por dos figuras que eventualmente reconoce, lo que no se espera es un castigo particular que uno de ellos tiene planeado para él.",
-        "amount": 3,
-        "location": "Pasillo 2"
-    },
-    {
-        "ISBN": "9788499185092",
-        "title": "Hyouza al Fin va a la Playa Nudista",
-        "author": "Catsudon",
-        "description": "La historia sigue adelante después de 'Es un Buen Día para ir a la Universidad', Hyouza se dispone a tener el día de su vida en la playa nudista, pero un evento inesperado está por cambiar sus planes para siempre, ¿Cómo afectará esto en la trama y en los planes futuros de todos los personajes? ",
-        "amount": 5,
-        "location": "Pasillo 1"
-    }
+  {
+    "ISBN": "9788499162377",
+    "title": "The Dark Feast",
+    "author": "Soina",
+    "description": "Shadow parece estar dando un paseo ya entrada la noche cuando de repente, es interceptado por dos figuras que eventualmente reconoce, lo que no se espera es un castigo particular que uno de ellos tiene planeado para él.",
+    "amount": 3,
+    "location": "Pasillo 2"
+  },
+  {
+    "ISBN": "9788499168329",
+    "title": "School Daze",
+    "author": "Redrusker",
+    "description": "Estrenado en el 2011, School Daze empezó la historia de un personaje que con el paso de los años empezaría a hacerse muy conocido dentro del fandom furry, hablamos de Sea Salt. La historia empieza con lo que aparentemente es un chico tímido y callado que no es de llamar la atención, pero nadie sospecha que él suele ofrecer servicios en los baños de la escuela, que, para su suerte... es de puros hombres, ¿Qué aventuras le esperan en ese cubiculo que aparentemente guardan muchos secretos?",
+    "amount": 10,
+    "location": "Pasillo 4"
+  },
+  {
+    "ISBN": "9788499169019",
+    "title": "Un Dulce Aprieto",
+    "author": "Capitan Koki",
+    "description": "¿Qué pasa cuando Gummigoo se confía de más y acaba a merced de sus secuaces? Max y Chad aprovecharán para pasar un buen rato con el Jefe para ponerlo a prueba a los gustos de ellos sin esperar lo que él tiene reservado para ellos después.",
+    "amount": 10,
+    "location": "Pasillo 1"
+  },
+  {
+    "ISBN": "9788499169020",
+    "title": "Que Gane El Mejor",
+    "author": "Eveecholo",
+    "description": "Fennix está confiado de que sus amigos llegarán más tarde, lo que le da tiempo a pasar un rato agradable para él, pero pronto se verá interrumpido por cierto visitante que le cambiará la visita a algo diferente de lo que él esperaba.",
+    "amount": 5,
+    "location": "Pasillo 2"
+  },
+  {
+    "ISBN": "9788499169021",
+    "title": "The Deep Dark",
+    "author": "Redrusker",
+    "description": "Después de los eventos de School Daze, Sea Salt nos muestra lo que aparentemente es una rutina tranquila en su vida, pero todo esta a punto de cambiar cuando sus padres se ausentan el fin de semana y es sorprendido por una persona que él no se esperaba.",
+    "amount": 15,
+    "location": "Pasillo 3"
+  },
+  {
+    "ISBN": "9788499185034",
+    "title": "Es un Buen Día para ir a la Universidad",
+    "author": "Catsudon",
+    "description": "La historia del cómic \"Es un Buen Día para ir a la Playa Nudista\" continúa con esta segunda parte llamada \"Es un Buen Día para ir a la Universidad\". Hyouza continúa su viaje en busca de respuestas para averiguar de dónde conoce a Mohinya, lo cuál lo llevará a re-encontrarse con un rostro familiar de su padado. ",
+    "amount": "23",
+    "location": "Pasillo 4"
+  },
+  {
+    "ISBN": "9788499185092",
+    "title": "Hyouza al Fin va a la Playa Nudista",
+    "author": "Catsudon",
+    "description": "La historia sigue adelante después de 'Es un Buen Día para ir a la Universidad', Hyouza se dispone a tener el día de su vida en la playa nudista, pero un evento inesperado está por cambiar sus planes para siempre, ¿Cómo afectará esto en la trama y en los planes futuros de todos los personajes? ",
+    "amount": "7",
+    "location": "Pasillo 1"
+  }
 ]
